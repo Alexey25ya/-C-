@@ -3,3 +3,13 @@ C:\Users\1\Desktop\repo\ex\семинар.задача4\obj\Debug\net6.0\сем�
 C:\Users\1\Desktop\repo\ex\семинар.задача4\obj\Debug\net6.0\семинар.задача4.AssemblyInfoInputs.cache
 C:\Users\1\Desktop\repo\ex\семинар.задача4\obj\Debug\net6.0\семинар.задача4.AssemblyInfo.cs
 C:\Users\1\Desktop\repo\ex\семинар.задача4\obj\Debug\net6.0\семинар.задача4.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\repo\ex\семинар.задача4\bin\Debug\net6.0\семинар.задача4.exe
+C:\Users\1\Desktop\repo\ex\семинар.задача4\bin\Debug\net6.0\семинар.задача4.deps.json
+C:\Users\1\Desktop\repo\ex\семинар.задача4\bin\Debug\net6.0\семинар.задача4.runtimeconfig.json
+C:\Users\1\Desktop\repo\ex\семинар.задача4\bin\Debug\net6.0\семинар.задача4.dll
+C:\Users\1\Desktop\repo\ex\семинар.задача4\bin\Debug\net6.0\семинар.задача4.pdb
+C:\Users\1\Desktop\repo\ex\семинар.задача4\obj\Debug\net6.0\семинар.задача4.dll
+C:\Users\1\Desktop\repo\ex\семинар.задача4\obj\Debug\net6.0\refint\семинар.задача4.dll
+C:\Users\1\Desktop\repo\ex\семинар.задача4\obj\Debug\net6.0\семинар.задача4.pdb
+C:\Users\1\Desktop\repo\ex\семинар.задача4\obj\Debug\net6.0\семинар.задача4.genruntimeconfig.cache
+C:\Users\1\Desktop\repo\ex\семинар.задача4\obj\Debug\net6.0\ref\семинар.задача4.dll
