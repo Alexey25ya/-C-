@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\repo\ex\семинар.задача3\bin\Debug\net6.0\семинар.задача3.exe
+C:\Users\1\Desktop\repo\ex\семинар.задача3\bin\Debug\net6.0\семинар.задача3.deps.json
+C:\Users\1\Desktop\repo\ex\семинар.задача3\bin\Debug\net6.0\семинар.задача3.runtimeconfig.json
+C:\Users\1\Desktop\repo\ex\семинар.задача3\bin\Debug\net6.0\семинар.задача3.dll
+C:\Users\1\Desktop\repo\ex\семинар.задача3\bin\Debug\net6.0\семинар.задача3.pdb
+C:\Users\1\Desktop\repo\ex\семинар.задача3\obj\Debug\net6.0\семинар.задача3.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\repo\ex\семинар.задача3\obj\Debug\net6.0\семинар.задача3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\repo\ex\семинар.задача3\obj\Debug\net6.0\семинар.задача3.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\repo\ex\семинар.задача3\obj\Debug\net6.0\семинар.задача3.AssemblyInfo.cs
+C:\Users\1\Desktop\repo\ex\семинар.задача3\obj\Debug\net6.0\семинар.задача3.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\repo\ex\семинар.задача3\obj\Debug\net6.0\семинар.задача3.dll
+C:\Users\1\Desktop\repo\ex\семинар.задача3\obj\Debug\net6.0\refint\семинар.задача3.dll
+C:\Users\1\Desktop\repo\ex\семинар.задача3\obj\Debug\net6.0\семинар.задача3.pdb
+C:\Users\1\Desktop\repo\ex\семинар.задача3\obj\Debug\net6.0\семинар.задача3.genruntimeconfig.cache
+C:\Users\1\Desktop\repo\ex\семинар.задача3\obj\Debug\net6.0\ref\семинар.задача3.dll
