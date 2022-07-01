@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\пк\\Desktop\\сем2\\-C-\\семинар2\\3\\3.csproj": {}
+    "C:\\Users\\1\\Desktop\\Новая папка\\-C-\\семинар2\\3\\3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\пк\\Desktop\\сем2\\-C-\\семинар2\\3\\3.csproj": {
+    "C:\\Users\\1\\Desktop\\Новая папка\\-C-\\семинар2\\3\\3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\пк\\Desktop\\сем2\\-C-\\семинар2\\3\\3.csproj",
+        "projectUniqueName": "C:\\Users\\1\\Desktop\\Новая папка\\-C-\\семинар2\\3\\3.csproj",
         "projectName": "3",
-        "projectPath": "C:\\Users\\пк\\Desktop\\сем2\\-C-\\семинар2\\3\\3.csproj",
-        "packagesPath": "C:\\Users\\пк\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\пк\\Desktop\\сем2\\-C-\\семинар2\\3\\obj\\",
+        "projectPath": "C:\\Users\\1\\Desktop\\Новая папка\\-C-\\семинар2\\3\\3.csproj",
+        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1\\Desktop\\Новая папка\\-C-\\семинар2\\3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\пк\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
